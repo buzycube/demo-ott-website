@@ -1,0 +1,3 @@
+# OTT Demo
+
+Welcome to the ott-platform-demo repository! This is a demonstration website for a fictional over-the-top (OTT) streaming platform, showcasing the platform's features and user interface. The website is built using HTML, CSS, and JavaScript, and utilizes a variety of open-source libraries and frameworks. The purpose of this repository is to provide an example of how a real-world OTT platform could be implemented, and to serve as a starting point for developers looking to build their own streaming platform. Feel free to use and modify the code as you see fit, and let us know if you have any questions or suggestions!
